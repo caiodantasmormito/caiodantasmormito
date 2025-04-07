@@ -37,7 +37,7 @@
 
 ### 📫 **Vamos Conversar!**  
 
-💼 [LinkedIn]((https://www.linkedin.com/in/caio-dantas-897760169/))  
+💼 [LinkedIn](https://www.linkedin.com/in/caio-dantas-897760169/)  
 
 
 
