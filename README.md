@@ -29,16 +29,9 @@
 
 ### 📊 **GitHub Stats**  
 
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)](https://github.com/SEUUSERNAME)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)](https://github.com/SEUUSERNAME)  
+[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiodantasmormito&show_icons=true&theme=radical)](https://github.com/caiodantasmormito)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiodantasmormito&layout=compact&theme=radical)](https://github.com/caiodantasmormito)  
 
----
-
-### 🔥 **Projetos Destacados**  
-
-- **[App em Flutter + Firebase](https://github.com/SEUUSERNAME/projeto-flutter)** – App com autenticação e banco de dados em tempo real.  
-- **[Sistema em .NET](https://github.com/SEUUSERNAME/projeto-dotnet)** – API RESTful com integração a serviços cloud.  
-- **[App React Native](https://github.com/SEUUSERNAME/projeto-react-native)** – Aplicativo multiplataforma com consumo de API.  
 
 ---
 
